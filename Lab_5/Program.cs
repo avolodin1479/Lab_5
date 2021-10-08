@@ -20,8 +20,9 @@ namespace Lab_5
                 sum += a[i];
             }
 
+
             double aM = sum / 7;
-            Console.WriteLine("Среднее арифметическое равно {0}", aM);
+            Console.WriteLine("Среднее арифметическое значение равно {0}", aM);
             Console.ReadKey();
             }
     }
